@@ -1,0 +1,3 @@
+hello world 
+hello
+I am writing this statement through file writer
